@@ -1,6 +1,7 @@
 # Terraform-Demo
 ## Create a S3 Bucket
 ## 🌩️ AWS + Terraform S3 Setup Guide
+## Note: navigate to “.tf” files. Open “resource_s3.tf” and update the “bucket” argument.
 
 This guide helps you configure AWS credentials and deploy an **S3 bucket** using **Terraform**.
 It’s designed for quick setup, testing, and teardown.
